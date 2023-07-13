@@ -20,12 +20,12 @@ Hieraus werden automatisch Schulden/Forderungen errechnet.
 ![authorizationSequence](https://github.com/Travel-Utilities-WWI21SEB/expense-management-docs/assets/74607524/65278270-343e-4281-93bf-cddcaee678a4)
 
 ## Aufteilung
-Aidan: Trips anlegen und Übersicht
+Aidan (4803747): Trips anlegen/bearbeiten, Tripübersicht, Transaktionshistorie
 
-Johanna: Trip-Details und Kosten
+Johanna (4940972): Trip-Details - Kosten, Schulden, Transaktionen (anlegen, bearbeiten, Übersicht)
 
-Kevin: Login, Registrierung (Frontend, Backend), Landingpage, generelles Layout
+Kevin (?): Login, Registrierung (Frontend, Backend), Landingpage, generelles Layout, Cost-/Debt-Overview, Profil, Homepage
 
-Lisa: Homepage
+Lisa (3798263): Translations, Homepage
 
-Luca: Go-Backend
+Luca (3047210): Go-Backend (DB, Logik, API-Schnittstelle)

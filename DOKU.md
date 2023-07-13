@@ -12,6 +12,13 @@ Hieraus werden automatisch Schulden/Forderungen errechnet.
 * Kosten werden Kategorien zugeordnet. In einem Kreisdiagramm wird eine Übersicht über die bisher angefallenen Kosten pro Kategorie angezeigt.
 
 ## Architektur
+
+![ArchitectureTravel](https://github.com/Travel-Utilities-WWI21SEB/expense-management-docs/assets/74607524/91993824-d6a0-4422-b3f4-85d9a57f61c9)
+
+## Auth Flow
+
+![authorizationSequence](https://github.com/Travel-Utilities-WWI21SEB/expense-management-docs/assets/74607524/65278270-343e-4281-93bf-cddcaee678a4)
+
 ## Aufteilung
 Aidan: Trips anlegen und Übersicht
 

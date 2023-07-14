@@ -24,7 +24,7 @@ Aidan (4803747): Trips anlegen/bearbeiten, Tripübersicht, Transaktionshistorie
 
 Johanna (4940972): Trip-Details - Kosten, Schulden, Transaktionen (anlegen, bearbeiten, Übersicht)
 
-Kevin (?): Login, Registrierung (Frontend, Backend), Landingpage, generelles Layout, Cost-/Debt-Overview, Profil, Homepage
+Kevin (8110106): Login, Registrierung (Frontend, Backend), Landingpage, generelles Layout, Cost-/Debt-Overview, Profil, Homepage
 
 Lisa (3798263): Translations, Homepage
 
